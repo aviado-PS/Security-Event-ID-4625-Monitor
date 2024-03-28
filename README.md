@@ -34,7 +34,8 @@ The script fetches the latest 10 events with ID 4625 from the Windows Security l
 - **Account Name**: The account name associated with the failed login attempt.
 
 It refreshes the output every second, ensuring that the information remains current without duplicating entries.
-
+## Author
+This script was authored by [aviado1](https://github.com/aviado1).
 ## Contributions
 
 Contributions are welcome! If you have suggestions or improvements, please feel free to fork the repository, make your changes, and submit a pull request. Your feedback helps make this tool better for everyone.
